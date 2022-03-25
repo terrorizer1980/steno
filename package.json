@@ -44,7 +44,7 @@
     "express": "^4.16.3",
     "insight": "^0.10.1",
     "js-string-escape": "^1.0.1",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.2",
     "nonce-str": "^1.0.1",
     "normalize-port": "^1.0.0",
     "normalize-url": "^4.5.1",
